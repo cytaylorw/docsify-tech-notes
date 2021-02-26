@@ -1,0 +1,1 @@
+Maintained by [Taylor](https://github.com/cytaylorw). Powered by [docsify](https://docsify.js.io) with [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) Simple Theme.

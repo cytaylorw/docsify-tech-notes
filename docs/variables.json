@@ -1,0 +1,16 @@
+{
+    "path": {
+        "media": "/../../_media",
+        "synology": "/software/synology",
+        "docker": "/software/docker",
+        "tools": "/software/tools",
+        "linux": "/system/linux",
+        "windows": "/system/windows",
+        "db": "/system/db",
+        "queue": "/system/queue",
+        "js": "/language/js",
+        "php": "/language/php",
+        "md": "/language/md"
+    },
+    "test": "test"
+}
