@@ -1,6 +1,6 @@
 
+* Software
   * [Synology](/software/synology/)
-  * [Test](/synology/)
   * [Docker](/software/docker/)
   * [Other Tools](/software/tools/)
 * System
