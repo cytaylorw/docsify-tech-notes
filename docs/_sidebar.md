@@ -1,15 +1,14 @@
 
 * Software
   * [Synology](/software/synology/)
+  * [Docker](/software/docker/)
   * [Other Tools](/software/tools/)
-  <!-- * [Docker](/software/docker/) -->
-<!-- * System -->
-  <!-- * [Linux](/system/linux/) -->
-  <!-- * [Windows](/system/windows/) -->
-  <!-- * [Database](/system/db/) -->
-  <!-- * [Message Queue](/system/queue/) -->
+* System
+  * [Linux](/system/linux/)
+  * [Windows](/system/windows/)
+  * [Database](/system/db/)
+  * [Message Queue](/system/queue/)
 * Language
+  * [JavaScript](/language/js/)
+  * [PHP](/language/php/)
   * [Markdown](/language/md/)
-  <!-- * [JavaScript](/language/js/) -->
-  <!-- * [PHP](/language/php/) -->
-  
