@@ -69,6 +69,7 @@ Add the theme js
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
   <!-- docsify-tabs (latest v1.x.x) -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <!-- 
@@ -100,6 +101,7 @@ The complete configuration is at [Docsify Configuration](https://docsify.js.org/
           // responsiveTables: true  // default
       },
       variablesFile : 'variables.json',
-      variablesFileType : 'json'
+      variablesFileType : 'json',
+      ga: 'UA-XXXXX-Y'
     }
 ```
