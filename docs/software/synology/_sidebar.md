@@ -1,3 +1,3 @@
 
-* [Synology](/software/synology/synology/)
+* [Synology](/software/synology/)
 * [Default Binary](/software/synology/default-binary.md)

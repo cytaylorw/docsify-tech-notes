@@ -1,3 +1,3 @@
 
 * Docsify
-* [Default Binary](/software/synology/default-binary.md)
+  * [Project Setup](/language/md/docsify/project-setup.md)
