@@ -1,4 +1,4 @@
-# Project Setup 
+# Project Setup
 
 ## Install Dependencies
 Install docsify-cli and nodemon as devDependencies
@@ -72,15 +72,16 @@ Add the theme js
   <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
   <!-- docsify-tabs (latest v1.x.x) -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-  <!-- 
-    docsify uses Prism to highlight code blocks in your pages. 
-    By default it only supports CSS, JavaScript and HTML. 
+  <!--
+    docsify uses Prism to highlight code blocks in your pages.
+    By default it only supports CSS, JavaScript and HTML.
     You can make Prism load additional languages.
     Check the component files list for more options:
     https://github.com/PrismJS/prism/tree/gh-pages/components
   -->
   <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-php.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-docker.min.js"></script>
 ```
 
 ## Configuration

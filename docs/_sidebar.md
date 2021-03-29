@@ -10,5 +10,5 @@
   <!-- * [Message Queue](/system/queue/) -->
 * Language
   * [Markdown](/language/md/)
+  * [PHP](/language/php/)
   <!-- * [JavaScript](/language/js/) -->
-  <!-- * [PHP](/language/php/) -->

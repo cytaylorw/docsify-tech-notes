@@ -8,3 +8,6 @@ themes/
 
 # exceptions
 !.gitkeep
+
+# IDE
+.vscode
